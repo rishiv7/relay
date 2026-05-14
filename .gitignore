@@ -6,5 +6,5 @@ config.local.json
 # macOS
 .DS_Store
 
-# Shortcut exports (add your own manually)
-*.shortcut
+# Do not ignore the distributed shortcut
+# *.shortcut
