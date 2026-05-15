@@ -28,7 +28,7 @@ No app switching. No re-explaining context. Just paste.
 
 **1. Build the Shortcut**
 
-Open the **Shortcuts app** on your iPhone and create a new shortcut with the following actions in order:
+Open the **Shortcuts app** on your iPhone and create a new shortcut named **Relay** with the following actions in order:
 
 | Step | Action | Settings |
 |---|---|---|
@@ -42,7 +42,7 @@ Open the **Shortcuts app** on your iPhone and create a new shortcut with the fol
 | 8 | Get Item from List | First Item |
 | 9 | Get Dictionary Value | Key: `text` |
 | 10 | Copy to Clipboard | — |
-| 11 | Show Notification | Title: `Reply ready`, Body: result of step 9 |
+| 11 | Show Notification | Title: `Relay ready`, Body: result of step 9 |
 
 ---
 
@@ -75,9 +75,9 @@ Replace `[VOICE INSTRUCTIONS]` with the VoiceInstructions variable from Step 3.
 
 **4. Assign to Action Button**
 
-Settings → Action Button → Shortcut → select your shortcut
+Settings → Action Button → Shortcut → select **Relay**
 
-Or for **Back Tap**: Settings → Accessibility → Touch → Back Tap → Double/Triple Tap → select your shortcut
+Or for **Back Tap**: Settings → Accessibility → Touch → Back Tap → Double/Triple Tap → select **Relay**
 
 ---
 
